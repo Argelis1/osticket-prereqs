@@ -20,11 +20,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- 
-- 
-- 
-- 
-- 
+- Setup a Virtual Machine in Azure
+- Install the osTicket requirements
+- Install osTicket itself
+- Do the after-installation configuration of osTicket
+- Explore osTicket as a Help Desk Professional
+  - Create, interact, and close tickets
+- Clean up Virtual Environment in Azure to minimize subscription cost
+
 
 <h2>Installation Steps</h2>
 <p>
